@@ -6,3 +6,4 @@ About
 
 Purpose
 
+Most of the Sri Lankan students are interested in robotics technology the main constraint for them is lack of knowledge and facilities. Only very few schools have well equipped ICT laboratories, electronic equipment and resources persons. Main idea of organizing this event is to provide assistance for students to learn the art of robot development and ultimately give them an opportunity to make use of what they have learnt and showcase their talents.
