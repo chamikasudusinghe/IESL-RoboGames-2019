@@ -1,2 +1,2 @@
-# IESL-Robogames-2019
-IESL Robogames
+# IESL-RoboGames-2019
+IESL RoboGames
